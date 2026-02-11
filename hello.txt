@@ -1,0 +1,3 @@
+board_tests=[test1={ CATEGORY TEST_TYPE :  ,FAMILY:,FILE:, ADDRESS;,BIN_DIR RESET PORT_NAME SN   Sectors Interface HSMLICENSE RSSEPATH  INPUT},test2,.....]
+tests=file 
+test= line 
