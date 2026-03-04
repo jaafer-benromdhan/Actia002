@@ -1,1 +1,2 @@
 # front-statique
+# front-statique
